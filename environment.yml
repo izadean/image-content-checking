@@ -1,4 +1,4 @@
-name: /home/user/github.com/izadean/image-content-checking/venv
+name: image-content-checking-env
 channels:
   - pytorch
   - defaults
@@ -151,4 +151,3 @@ dependencies:
       - werkzeug==3.0.3
       - wrapt==1.16.0
       - zipp==3.19.2
-prefix: /home/user/github.com/izadean/image-content-checking/venv
